@@ -2,6 +2,9 @@
 
 A multi-agent AI pipeline that autonomously searches, scrapes, writes, and critiques research reports on any topic.
 
+## 🌐 Live Demo
+👉 [Try ResearchMind Live](https://multi-agent-research-system-mbzpb9xnqhbtnt5u6c7f7n.streamlit.app/)
+
 ## 🧠 How It Works
 
 Four specialized AI agents collaborate in sequence:
